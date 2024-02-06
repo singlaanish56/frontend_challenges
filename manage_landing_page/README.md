@@ -31,5 +31,5 @@ npm run build
 Link to Github Page Hosting
 
 ```
-https://singlaanish56.github.io/learning-projects/frontend_mentor_challenges/manage_landing_page/index.html
+https://singlaanish56.github.io/frontend_challenges/manage_landing_page/index.html
 ```
