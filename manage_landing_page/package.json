@@ -1,5 +1,5 @@
 {
-  "homepage": "https://singlaanish56.github.io/frontend-challenges/manage-landing-page",
+  "homepage": "https://singlaanish56.github.io/frontend_challenges/manage_landing_page",
   "name": "tailwind_manage_landing",
   "version": "1.0.0",
   "description": "",
@@ -7,7 +7,7 @@
   "scripts": {
     "predeploy": " npm run build",
     "deploy":"gh-pages -d dist",
-    "build": "tailwindcss -i ./input.css -o ./dist/output.css &&",
+    "build": "tailwindcss -i ./input.css -o ./dist/output.css",
     "watch": "tailwindcss -i ./input.css -o ./dist/output.css --watch"
   },
   "author": "",
