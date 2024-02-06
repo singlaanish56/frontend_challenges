@@ -1,19 +1,19 @@
-# Tailwind Manage Landing Page
+# Social Profile Links
 
 
-[Frontend Challenge Link](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
+[Frontend Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
 
 
 Link to Github Page Hosting
 
 ```
-https://singlaanish56.github.io/frontend_challenges/manage_landing_page/index.html
+https://singlaanish56.github.io/frontend_challenges/social_profile_links/index.html
 ```
 
 
 trying to render this from the design specs
 
-![Alt text](./img/desktop-design.jpg?raw=true)
+![Alt text](./design/active-states.jpg)
 
 # Usage
 
