@@ -17,7 +17,7 @@ module.exports = {
         Darkpurple: "hsl(292, 42%, 14%)"        
       },
       fontFamily: {
-        libre: ['"Work Sans', ...defaultTheme.fontFamily.sans]
+        'myfont': ['"Work Sans', ...defaultTheme.fontFamily.sans]
       }
     },
   },
